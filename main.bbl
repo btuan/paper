@@ -1,0 +1,17 @@
+% \bib, bibdiv, biblist are defined by the amsrefs package.
+\begin{bibdiv}
+\begin{biblist}
+
+\bib{raft}{article}{
+      author={Ongaro, Diego},
+      author={Ousterhout, John},
+       title={{In Search of an Understandable Consenus Algorithm (Extended
+  Version)}},
+        date={2014},
+     journal={Proceedings of USENIX ATC '14},
+       pages={305\ndash 319},
+         url={http://ramcloud.stanford.edu/raft.pdf},
+}
+
+\end{biblist}
+\end{bibdiv}
